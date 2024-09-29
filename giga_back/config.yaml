@@ -1,0 +1,8 @@
+ngrok:
+  root: https://8fb5-34-90-184-186.ngrok-free.app/
+
+llm: Grok
+
+redis:
+  host: 5.tcp.eu.ngrok.io
+  port: 18757
